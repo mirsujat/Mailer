@@ -10,3 +10,9 @@ Survey.updateOne(
     $set: { 'recipients.$.responded': true }
   }
 );
+
+app.delete('/api/surveys/:id', requireLogin, async (req, res) => {
+  const surveys = await Surveys.findByIdAndRemove({ _id: req.params.id });
+  res.send(surveys);
+});
+
