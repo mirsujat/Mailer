@@ -3,26 +3,27 @@ React, react-routerV4, Redux, NodeJS, Express and MongoDB App.
 
 
 ### Prerequisites
-######Node version: 8.4.0 minimum and 
-######NPM version: 5.3.0 monimum
+ Node version: 8.4.0 minimum and 
+
+ NPM version: 5.3.0 monimum
 
 # How to run this project:
-######step 1: clone or download the repo
+ step 1: clone or download the repo
 
-######step 2: Run the command >> npm install -g nodemon  //this will install nodemon on your system globally
+ step 2: Run the command >> npm install -g nodemon  //this will install nodemon on your system globally
 
-######step 3: npm install  // this will install all the dependency if depdepency is not install Only then follow step 4
+ step 3: npm install  // this will install all the dependency if depdepency is not install Only then follow step 4
 
-######step 4: npm install --save-dev forever
+ step 4: npm install --save-dev forever
 
-######step 5: run npm dev //this will start the project on localhost://5000
+ step 5: run npm dev //this will start the project on localhost://5000
 
-######step 6: Go to  http://localhost:5000 
+ step 6: Go to  http://localhost:5000 
 
 
 ## In oreder to Google auth
 
-######go to this link: https://console.developers.google.com/
+  go to this link: https://console.developers.google.com/
 
 #####create an app
 
@@ -30,15 +31,14 @@ React, react-routerV4, Redux, NodeJS, Express and MongoDB App.
 
 # For stripe payment
 
-######create an stripe account at:  https://stripe.com/
+ create an stripe account at:  https://stripe.com/
 
-
-######and follow their instructions
+and follow their instructions
 
 # and sendgrid 
 
-######create an acccount on:  https://sendgrid.com/
+ create an acccount on:  https://sendgrid.com/
 
-######and follows their instruction to send email using sengird mail service
+ and follows their instruction to send email using sengird mail service
 
 ### Thanks Enjoy>>> Learning...
