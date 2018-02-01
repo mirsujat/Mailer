@@ -1,9 +1,9 @@
 # Mailer build with es6 and react-routerV4
-React Redux NodeJS Express And MongoDB APP
+React, react-routerV4, Redux, NodeJS, Express and MongoDB App.
 
 
 # Prerequisites
-Node version: 8.4.0 minimum
+Node version: 8.4.0 minimum and 
 NPM version: 5.3.0 monimum
 
 # How to run this project:
