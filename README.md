@@ -25,9 +25,9 @@ React, react-routerV4, Redux, NodeJS, Express and MongoDB App.
 
   go to this link: https://console.developers.google.com/
 
-#####create an app
+ # create an app
 
-######set googleClientID and googleClientSecret in you environment variable
+   set googleClientID and googleClientSecret in you environment variable
 
 # For stripe payment
 
