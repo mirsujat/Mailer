@@ -12,7 +12,7 @@ React, react-routerV4, Redux, NodeJS, Express and MongoDB App.
 # How to run this project:
  step 1: clone or download the repo
 
- step 2: Run the command >> npm install -g nodemon  //this will install nodemon on your system globally
+ step 2: Run the command >> npm install -g nodemon  this will install nodemon on your system globally
 
  step 3: npm install   this will install all the dependency if depdepency is not install Only then follow step 4
 
