@@ -18,7 +18,7 @@ React, react-routerV4, Redux, NodeJS, Express and MongoDB App.
 
  step 4: npm install --save-dev forever
 
- step 5: run npm dev //this will start the project on localhost://5000
+ step 5: run npm dev  this will start the project on localhost://5000
 
  step 6: Go to  http://localhost:5000 
 
