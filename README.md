@@ -1,5 +1,5 @@
 # Mailer build with es6 and react-routerV4
-React, react-routerV4, Redux, NodeJS, Express and MongoDB App.
+React, react-routerV4, Redux, NodeJS, Express, passport and MongoDB App.
 
 [![npm version](https://badge.fury.io/js/react-native.svg)](https://badge.fury.io/js/react-native)
 
