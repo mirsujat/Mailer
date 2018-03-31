@@ -43,4 +43,5 @@ and follow their instructions
 
  and follows their instruction to send email using sengird mail service
 
-### Thanks Enjoy>>> Learning...
+### Thanks Enjoy 
+Learning... mir.sujat@gmail.com
