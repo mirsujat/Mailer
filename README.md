@@ -7,7 +7,7 @@ React, react-routerV4, Redux, NodeJS, Express, passport and MongoDB App.
 ### Prerequisites
  Node version: 8.4.0 minimum and 
 
- NPM version: 5.3.0 monimum
+ NPM version: 5.3.0 minimum
 
 # How to run this project:
  step 1: clone or download the repo
