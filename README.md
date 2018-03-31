@@ -35,11 +35,11 @@ React, react-routerV4, Redux, NodeJS, Express, passport and MongoDB App.
 
  create an stripe account at:  https://stripe.com/
 
-and follow their instructions
+and follow the instructions
 
 # and sendgrid 
 
- create an acccount on:  https://sendgrid.com/
+ create an account on:  https://sendgrid.com/
 
  and follows their instruction to send email using sengird mail service
 
